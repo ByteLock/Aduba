@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdubaService", "AdubaService\AdubaService.csproj", "{2CA6503B-9720-49F2-8C2E-E612C85B5940}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdubaInstaller", "AdubaInstaller\AdubaInstaller.csproj", "{D7EB161E-26E4-4F7C-B7FF-E7009B411277}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{2CA6503B-9720-49F2-8C2E-E612C85B5940}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2CA6503B-9720-49F2-8C2E-E612C85B5940}.Release|x64.ActiveCfg = Release|x64
 		{2CA6503B-9720-49F2-8C2E-E612C85B5940}.Release|x64.Build.0 = Release|x64
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Debug|x64.Build.0 = Debug|Any CPU
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Release|x64.ActiveCfg = Release|Any CPU
+		{D7EB161E-26E4-4F7C-B7FF-E7009B411277}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
