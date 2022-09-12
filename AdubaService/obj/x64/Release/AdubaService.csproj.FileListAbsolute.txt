@@ -18,9 +18,9 @@ C:\Users\dy0x8\source\repos\Aduba\ADUBAService\bin\x64\Release\Newtonsoft.Json.d
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\bin\x64\Release\Newtonsoft.Json.xml
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\AdubaService.csproj.AssemblyReference.cache
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\AdubaService.csproj.SuggestedBindingRedirects.cache
-C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\ADUBAService.ProjectInstaller.resources
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\AdubaService.csproj.GenerateResource.cache
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\AdubaService.csproj.CoreCompileInputs.cache
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\AdubaService.csproj.CopyComplete
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\ADUBAService.exe
 C:\Users\dy0x8\source\repos\Aduba\ADUBAService\obj\x64\Release\ADUBAService.pdb
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Release\AdubaSerivce.ProjectInstaller.resources

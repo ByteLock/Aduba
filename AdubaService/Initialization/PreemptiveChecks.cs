@@ -1,4 +1,4 @@
-﻿using ADUBAService.Configuration;
+﻿using AdubaSerivce.Configuration;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADUBAService.Initialization
+namespace AdubaSerivce.Initialization
 {
     class PreemptiveChecks
     {

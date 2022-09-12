@@ -1,4 +1,4 @@
-﻿namespace ADUBAService
+﻿namespace AdubaSerivce
 {
     partial class AdubaService
     {

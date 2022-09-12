@@ -2,7 +2,7 @@
 using System.ServiceProcess;
 using System.Timers;
 
-namespace ADUBAService
+namespace AdubaSerivce
 {
     public partial class AdubaService : ServiceBase
     {
