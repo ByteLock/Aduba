@@ -75,6 +75,7 @@
             this.Controls.Add(this.installButton);
             this.Controls.Add(this.fileInstallProgress);
             this.Name = "Installer";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Installer";
             this.ResumeLayout(false);
             this.PerformLayout();
