@@ -69,11 +69,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ADUBAService.cs">
+    <Compile Include="AdubaService.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ADUBAService.Designer.cs">
-      <DependentUpon>ADUBAService.cs</DependentUpon>
+    <Compile Include="AdubaService.Designer.cs">
+      <DependentUpon>AdubaService.cs</DependentUpon>
     </Compile>
     <Compile Include="Configuration\ServiceConfiguration.cs" />
     <Compile Include="Initialization\PreemptiveChecks.cs" />

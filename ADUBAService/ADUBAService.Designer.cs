@@ -1,6 +1,6 @@
 ﻿namespace ADUBAService
 {
-    partial class ADUBAService
+    partial class AdubaService
     {
         /// <summary> 
         /// Required designer variable.

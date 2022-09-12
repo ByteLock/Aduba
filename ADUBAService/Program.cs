@@ -17,7 +17,7 @@ namespace ADUBAService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new ADUBAService()
+                new AdubaService()
             };
             ServiceBase.Run(ServicesToRun);
         }

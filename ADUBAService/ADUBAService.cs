@@ -4,11 +4,11 @@ using System.Timers;
 
 namespace ADUBAService
 {
-    public partial class ADUBAService : ServiceBase
+    public partial class AdubaService : ServiceBase
     {
         Timer timer = new Timer();
 
-        public ADUBAService()
+        public AdubaService()
         {
             InitializeComponent();
         }
