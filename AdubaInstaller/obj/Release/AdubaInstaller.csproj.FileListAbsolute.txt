@@ -1,0 +1,11 @@
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\bin\Release\AdubaInstaller.exe.config
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\bin\Release\AdubaInstaller.exe
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\bin\Release\AdubaInstaller.pdb
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.AssemblyReference.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.Installer.resources
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.Properties.Resources.resources
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.GenerateResource.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.CoreCompileInputs.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.exe
+C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.pdb

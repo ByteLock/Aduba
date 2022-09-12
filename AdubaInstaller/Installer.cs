@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace AdubaInstaller
 {
-    public partial class Form1 : Form
+    public partial class Installer : Form
     {
-        public Form1()
+        public Installer()
         {
             InitializeComponent();
+        }
+
+        private void installButton_Click(object sender, EventArgs e)
+        {
+            ProgressBar f = fileInstallProgress;
+            Installation.Install.InstallNetFramework(f);
         }
     }
 }

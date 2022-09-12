@@ -1,0 +1,13 @@
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\bin\x64\Debug\AdubaService.exe.config
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\bin\x64\Debug\AdubaService.exe
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\bin\x64\Debug\AdubaService.pdb
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaService.csproj.AssemblyReference.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaService.csproj.SuggestedBindingRedirects.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaSerivce.ProjectInstaller.resources
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaService.csproj.GenerateResource.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaService.csproj.CoreCompileInputs.cache
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaService.csproj.CopyComplete
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaService.exe
+C:\Users\dy0x8\source\repos\Aduba\AdubaService\obj\x64\Debug\AdubaService.pdb
