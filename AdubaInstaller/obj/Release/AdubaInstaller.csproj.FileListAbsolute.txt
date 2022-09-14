@@ -9,3 +9,14 @@ C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.cspr
 C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.CoreCompileInputs.cache
 C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.exe
 C:\Users\dy0x8\source\repos\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.pdb
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\bin\Release\AdubaInstaller.exe.config
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\bin\Release\AdubaInstaller.exe
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\bin\Release\AdubaInstaller.pdb
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.Installer.resources
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.Properties.Resources.resources
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.exe
+\\Mac\Home\Desktop\Aduba\AdubaInstaller\obj\Release\AdubaInstaller.pdb
