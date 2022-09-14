@@ -1,20 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
-using System.Drawing;
-using System.Linq;
+using System.IO;
 using System.Net;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace AdubaInstaller
 {
     public partial class Installer : Form
     {
+
+        private String currentInstallPath = "";
+
         public Installer()
         {
             InitializeComponent();
@@ -22,18 +18,29 @@ namespace AdubaInstaller
 
         private void installButton_Click(object sender, EventArgs e)
         {
+            // Create a new web client
             WebClient client = new WebClient();
+            
+            // Set download progress changed event and completed
             client.DownloadProgressChanged += new DownloadProgressChangedEventHandler(DownloadProgressChangedEvent);
-            client.DownloadFileCompleted += new AsyncCompletedEventHandler(AsyncDownloadFinished);
-            Installation.Install.InstallNetFramework(client);
+            client.DownloadFileCompleted += new AsyncCompletedEventHandler(DownloadFinished);
+
+            // Env vars
+            currentInstallPath = Directory.GetCurrentDirectory();
+
+            // Install the framework
+            Installation.Install.InstallNetFramework(client, currentInstallPath);
         }
+
 
         private void DownloadProgressChangedEvent(object sender, DownloadProgressChangedEventArgs e)
         {
+            filePathBox.Enabled = false;
+            filePathBox.Text = currentInstallPath;
             fileInstallProgress.Value = e.ProgressPercentage;
         }
 
-        private void AsyncDownloadFinished(object sender, AsyncCompletedEventArgs e)
+        private void DownloadFinished(object sender, AsyncCompletedEventArgs e)
         {
             var res = MessageBox.Show("The donwload has finished!", "File Installer", MessageBoxButtons.OK);
             if(res == DialogResult.OK)
